@@ -6,5 +6,6 @@ public class App {
         int r = 8;
         int a = 9;
         int suma = r + a;
+        int resta = r-a;
     }
 }
