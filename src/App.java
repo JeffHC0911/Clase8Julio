@@ -7,5 +7,8 @@ public class App {
         int a = 9;
         int suma = r + a;
         int resta = r-a;
+
+        System.out.println(suma);
+        System.out.println(resta);
     }
 }
